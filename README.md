@@ -1,14 +1,5 @@
 
-
-
-<div align="center">
-  <span>
-    <img src="images/ViTAR.png" alt="logo" height="40" style="vertical-align: middle;">
-    <span style="font-size: 26px; font-weight: bold; vertical-align: middle;">
-       Think Twice to See More: Iterative Visual Reasoning in Medical VLMs
-    </span>
-  </span>
-</div>
+# <img src="images/ViTAR.png" alt="logo" height="60" style="vertical-align: middle;"> Think Twice to See More: Iterative Visual Reasoning in Medical VLMs
 
 ## 📖 Overview  
 
