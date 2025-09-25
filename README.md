@@ -22,7 +22,7 @@ Key contributions of ViTAR include:
 
 ## 🧠 Framework  
 <div align="center">
-  <img src="images/framework.png" width="90%" alt="Workflow">
+  <img src="images/framework.jpg" width="90%" alt="Workflow">
 
  A framework of ViTAR.
   
