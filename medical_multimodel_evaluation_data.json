@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What can be observed in this image?",
+    "image": [
+      "images/ankle071718.png"
+    ],
+    "options": [
+      "Shin splints",
+      "Tennis elbow",
+      "Plantar fascia pathology",
+      "Meniscal tear"
+    ],
+    "answer": "Plantar fascia pathology",
+    "dataset": "OmniMedVQA",
+    "subset": "MR (Mag-netic Resonance Imaging)"
+  },
+  {
+    "question": " Where does the contrast track into? ",
+    "image": [
+      "images/PMC8672462_Fig3.jpg"
+    ],
+    "options": [
+      "The bladder on the right side",
+      "The bladder on the left side",
+      "The ureters on the left side",
+      "The vagina on the right side"
+    ],
+    "answer": "The vagina on the right side",
+    "dataset": "PMC-VQA_test",
+    "subset": ""
+  }
+]

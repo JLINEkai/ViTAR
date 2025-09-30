@@ -1,0 +1,1 @@
+python scripts/model_merger.py --local_dir checkpoint/ViTAR/global_step_150/actor
