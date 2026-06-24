@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://arxiv.org/abs/2510.10052"><img src="https://img.shields.io/badge/arXiv-2510.10052-b31b1b.svg?logo=arxiv&logoColor=white" alt="arXiv"></a>
-  <a href="https://huggingface.co/datasets/jline/ViTAR-18K"><img src="https://img.shields.io/badge/Dataset-HuggingFace-ffcc4d.svg?logo=huggingface&logoColor=black" alt="Hugging Face Dataset"></a>
+  <a href="https://huggingface.co/datasets/jline/ViTAR-16K"><img src="https://img.shields.io/badge/Dataset-HuggingFace-ffcc4d.svg?logo=huggingface&logoColor=black" alt="Hugging Face Dataset"></a>
   <a href="https://jlinekai.github.io/ViTAR-Project/"><img src="https://img.shields.io/badge/Project-Page-2f80ed.svg" alt="Project Page"></a>
 </p>
 
